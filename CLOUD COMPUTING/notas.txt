@@ -1,0 +1,44 @@
+La definicion de CLOUD COMPUTING :es un modelo de entrega y consumo de servicio
+No podemos llamarla como una tecnologia porque no lo es, la manera mas facil de enterderla es que
+hay un consumidor y hay un prestador, como por ejemplo este consumidor esta buscando recursos oara sus actividades
+los cuales no los tiene de manera propia.
+---------------------------------------------------------
+LO QUE SE SUPONE PARA EL USUARIO, es que debe entender las condiciones de uso que presenta el prestador.
+En pocas palabras lo que hace uno en la nube es conectarse a otra computadora y consumir todo lo que vayamos a  usar.
+Todo esto se obtiene una escala brutal, la mejor definicion de la nube es un conjunto de recursos a gran escalas, que
+-se pueden consumir bajo demanda.(recursos computacionales a gran escala).
+-se conecta a una red de alta velocidad.
+- solo se paga por lo que se consume.
+------------------------------------------------------------
+ LA NUBE TIENE 3 PILARES:
+1.VIRTUALIZACION: podemos tener varios sistemas operativos funcionando al simultaneamente en el mismo hadware
+2.USO BAJO DEMANDA: mediante la virtualizacion se puede crecer o reducir segun las necesidades del usuario
+3.DESPLIEGUE RAPIDO Y ESCALABLE 
+-----------------------------------------------------------
+EXISTEN 3 TIPOS DE NUBES:
+- LA PRIVADAS
+-HIBRIDAS
+- PUBLICAS
+-----------------------------------------------------------
+INFRAESTRUCTURAS EN LA NUBE:
+Saas ( software as a service): ( usuario final). quiere decir que es un sofware entregado como servicio
+el ususario no tiene que instalar algo, solo se conecta y usa lo que necesita.( todo lo que se accede sin bajar nada).
+paas ( platform as a service): Ya es mas para programadores que generan una aplicacion y necesitan una infraestructura donde
+esta funcione para poder probarla y mandarla aprodución.
+iaas ( infraestrcture as a service): Esta es mas para arquitectos en nube, son capaces de  contruir servicios. usasando nubes como
+azure, aws, y el google, ellos construyen soluciones especificas para cada cliente.
+-------------------------------------------------------------------
+LIDERES QUE ESTAN EN LO ALTO 
+1. AMAZON ( aws)
+2. AZURE (MICROSOFT)
+3.GOOGLE CLOUD
+4.IBM CLOUD (HUAWEI)
+---------------------------------------------------
+En conclsuion podemos decir que que la nube nos ha facilitado todo, porque podemos usar cualquier servicio desde cualquier
+dispositivo, de una manera sencilla.
+
+ 
+
+
+
+

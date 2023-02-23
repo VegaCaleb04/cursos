@@ -1,0 +1,45 @@
+INTRODUCCION A REDES
+
+Topologia de Red : Nos referimos a como esta creada nuestra red.
+
+Red LAN: se refiere cuando la red tiene una ubicación unica
+
+------------------------------------------
+REDES VIRTUALES EN AZURE
+
+Los sistemas de gestion de trafico como " traffic manager se emplean para poder aumentar la eficiencia 
+y la disponibilidad de las conexiones.
+
+Las direcciones asignables que tienen las redes de clabe c son de 254.
+
+Cuando creamos una red virtual y configuramos una subred, esta debe estar contenida
+dentro de la red virtual que hemos establecido
+
+Para hacerping de la maquina virtual 1 a la maquina virtual 2, debemos deshabilital el firewall en la maquina virtual 2
+
+La interfaz de red para poder ver la IP publica y privada de una maquina virtual en azure
+se necesita la configuraciones de IP
+
+para poder acceder a un servidor publicocon una direccion IP concreta mediante una diereccion www, se
+debe agregar en la zoza DNS un conjunto de registros
+
+si se pueden asociar interfaces de red o sub redes a un grupo de seguridad de red
+-----------------------------------------------------------
+BALANCEO DE CARGAS EN AZURE
+
+ application gateway es unun recurso que nos permite tener un punto de conexion HTTP para distintos 
+servicios que esten por detras
+
+Los recursos tipicos para crear para gestion de trafico azure es un equilibrador de carga, aplication gateway,
+y content delivery networks
+
+content dilevery network o CDN, permite que nuestro contenido almacenado este disponible globalmente
+-------------------------------------------------------------
+REDES HIBRIDAS AZURE
+
+una vpn es un tunel entre dos puntos a  traves de una red
+
+expressroute presta servicios a la nube de microsft
+
+Lo primero que debesmos hacer para conigurar una VPN entre dos redes virtuales es crear un
+nuevo recurso de puerta de enlace de red virutual
